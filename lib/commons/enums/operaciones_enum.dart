@@ -1,0 +1,4 @@
+enum Operaciones{
+  cobranza,
+  op
+}
